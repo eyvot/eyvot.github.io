@@ -1,0 +1,13 @@
+{
+  "name": "eyvot.github.io",
+  "version": "0.0.0",
+  "description": "eyvot's web site",
+  "main": "app.js",
+  "repository": "git@github.com:eyvot/eyvot.github.io.git",
+  "author": "eyvot <eyvot@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-pug": "^4.0.1"
+  }
+}
